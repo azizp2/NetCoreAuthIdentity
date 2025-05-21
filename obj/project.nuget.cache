@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "izA5We4oVs5e/i2EWkwDXNFvMF4JOlW1IGMm1h0o6TOw+plXh2pzdh6IuIZnv7N0TBVLjm7Sa3LP5Go7+4kbvg==",
+  "dgSpecHash": "HYNeacIcf+o7gUPi9iO24Q4T66IQz9maJ+rHhxXc3vw1JAlKGpPITWiuVanB3+jMlafCKLRd4aVeW+ujKF08mw==",
   "success": true,
-  "projectFilePath": "D:\\Belajar\\webapi\\api\\api.csproj",
+  "projectFilePath": "D:\\Belajar\\webapi\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
