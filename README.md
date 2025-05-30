@@ -16,7 +16,7 @@
 - **Export Data ke PDF dengan QuestPDF**  
   API mampu menghasilkan file PDF secara dinamis menggunakan library [QuestPDF](https://www.questpdf.com/), cocok untuk laporan, invoice, dan dokumen lain.
 
-- **Clean Architecture & Modular**  
+- **Solid Principal & Modular**  
   Struktur proyek yang terpisah ke dalam lapisan seperti Controllers, Services, Repository, dan Data untuk memudahkan pengembangan dan pemeliharaan.
 
 ---
