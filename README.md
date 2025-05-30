@@ -1,4 +1,4 @@
-# NetCoreAuthIdentity
+# C# .Net Core Web Api Auth Identiy Example
 
 ![.NET 7](https://img.shields.io/badge/.NET-7.0-blue)
 ![License](https://img.shields.io/github/license/azizp2/NetCoreAuthIdentity)
